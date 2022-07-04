@@ -7,7 +7,14 @@
 # Masum Hossain
 #### Web Devoloper
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+but people call me Masum. I am passionate and enthusiastic about web design in psd to html css, figma to html css responsive bootstrap xd to html, .
+
+I would love to do creative ideas to implement in the real world.
+
+I focus on 3 things for every project: Communication, Quality, and Support.
+
+Thank you,
+Masum
 
 Skills: HTML / CSS / JS / BOOTSTRAP / REACT 
 
