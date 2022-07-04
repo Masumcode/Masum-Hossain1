@@ -1,5 +1,5 @@
 
-![Web Devoloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Devoloper](https://pbs.twimg.com/profile_banners/2729154261/1656910404/600x200)
 
 
 ### Hello Dear 👋,
