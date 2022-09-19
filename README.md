@@ -1,11 +1,11 @@
 
-![Web Devoloper](https://pbs.twimg.com/profile_banners/2729154261/1657035802/600x200)
+
 
 
 ### Hello Dear 👋,
 #### I'm
 # Masum Hossain
-#### Web Devoloper
+#### Front-End Devoloper
 
 but people call me Masum. I am passionate and enthusiastic about web design in psd to html css, figma to html css responsive bootstrap xd to html, .
 
